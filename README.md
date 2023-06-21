@@ -13,7 +13,7 @@
  
  <br>
  
-  ## Graduada em Gestão da Tecnologia da Informação  | Estudante em formação em Desenvolvimento Front-End 💜
+  ## Desenvolvedora Front-End em formação 💜
  
 <div> 
   
