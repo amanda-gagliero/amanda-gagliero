@@ -13,7 +13,7 @@
  
  <br>
  
-  ## Desenvolvedora Front-End em formação 💜
+  ## Desenvolvedora Front-End Júnior 💜
  
 <div> 
   
