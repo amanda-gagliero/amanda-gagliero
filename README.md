@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da AMANDA 👩‍💻💜
+## <Hello, world/> 🌎  Bem-vindo(a) ao perfil da AMANDA 👩‍💻💜
 
 <div>
   <a href="https://github.com/amanda-gagliero">
