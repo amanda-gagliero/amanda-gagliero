@@ -13,7 +13,7 @@
  
  <br>
  
-  ## Desenvolvedora Front-End Júnior 💜
+  ## Desenvolvedora Front-End 💜
  
 <div> 
   
