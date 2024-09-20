@@ -2,11 +2,11 @@
  
 ###
 
-<h3 align="left">Desenvolvedora Front-end apaixonada por transformar ideias em experiências digitais incríveis.</h3>
+<h3 align="left">Desenvolvedora Front-end apaixonada por transformar ideias em experiências incríveis.</h3>
 
 ###
 
-<p align="left">🎓 Profissional graduada em Gestão da Tecnologia da Informação.<br>🎯 Meu objetivo é construir uma carreira sólida e aumentar a representatividade feminina na programação.<br>📖 Meu hobby favorito é a leitura, especialmente as obras da Colleen Hoover.<br>👀 Curiosidade: A maior fã de NARUTO da vida 🧡<p>E lembrem-se: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 👩‍💻💜</p>
+<p align="left">🎓 Profissional graduada em Gestão da Tecnologia da Informação.<br>🎯 Construindo minha carreira em programação.<br>📖 Meu hobby favorito é a leitura, especialmente as obras da Colleen Hoover.<br>👀 Curiosidade: A maior fã de NARUTO da vida 🧡<p>E lembrem-se: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 👩‍💻💜</p>
 
 ###
 
