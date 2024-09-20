@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Profissional graduada em Gestão da Tecnologia da Informação.<br>🎯 Meu objetivo é construir uma carreira sólida e aumentar a representatividade feminina na programação, fazendo a diferença no mercado..<br>👀 Curiosidade: A maior fã de NARUTO da vida 🧡<p>E lembrem-se: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 👩‍💻💜</p>
+<p align="left">🎓 Profissional graduada em Gestão da Tecnologia da Informação.<br>🎯 Meu objetivo é construir uma carreira sólida e aumentar a representatividade feminina na programação<br>👀 Curiosidade: A maior fã de NARUTO da vida 🧡<p>E lembrem-se: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 👩‍💻💜</p>
 
 ###
 
