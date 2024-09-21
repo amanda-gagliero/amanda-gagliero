@@ -1,17 +1,20 @@
- <Hello, world/> 🌎  Prazer, eu sou Amanda Gagliero!
- 
+<div align="center">
+
+##  <Hello, world/> 🌎  Prazer, eu sou Amanda Gagliero! <br>
+
+<div>
+  👩‍🎓 Profissional graduada em Gestão da Tecnologia da Informação.<br>
+  👩‍💻  Construindo a carreira dos meus sonhos enquanto represento e inspiro mulheres na programação<br>
+📖 Meu hobby favorito é a leitura, especialmente as obras da Colleen Hoover.<br>
+👀 Curiosidade: A maior fã de NARUTO da vida 🧡<br>
+<p>E lembrem-se: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 💜</p>
+</div>
+</div> 
+
 ###
 
-<h3 align="left">Desenvolvedora Front-end apaixonada por transformar ideias em experiências incríveis.</h3>
-
-###
-
-<p align="left">🎓 Profissional graduada em Gestão da Tecnologia da Informação.<br>👩‍💻 Construindo a carreira dos meus sonhos enquanto represento e inspiro mulheres na programação..<br>📖 Meu hobby favorito é a leitura, especialmente as obras da Colleen Hoover.<br>👀 Curiosidade: A maior fã de NARUTO da vida 🧡<p>E lembrem-se: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 💜</p>
-
-###
-
-<div align="left">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN0OG5kdGw4YzZxeTl2YmdkaHl2cWt1YXhrZjhpYm4wb2FqdW52eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwG5hJ7pO0A2xx3G/giphy.webp"  />
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN0OG5kdGw4YzZxeTl2YmdkaHl2cWt1YXhrZjhpYm4wb2FqdW52eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwG5hJ7pO0A2xx3G/giphy.webp"  />
 </div>
 
 ###
@@ -41,8 +44,9 @@
 </div>
 
 ###
+##
 
-<h2 align="left">Minhas Stats</h2>
+<h2 align="left">Stats 📊 </h2>
 
 ###
 
