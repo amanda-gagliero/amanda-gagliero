@@ -1,13 +1,16 @@
 <div align="center">
 
-##  <Hello, world/> 🌎  Prazer, eu sou Amanda Gagliero! <br>
+## <h1> <Hello, world/> 🌎  Prazer, eu sou Amanda Gagliero! </h1> <br>
+<h3 align="center">Dev front-end geek, transformando ideias com criatividade e código na ponta dos dedos.</h3>
+
+###
 
 <div>
   👩‍🎓 Profissional graduada em Gestão da Tecnologia da Informação.<br>
   👩‍💻  Construindo a carreira dos meus sonhos enquanto represento e inspiro mulheres na programação<br>
 📖 Meu hobby favorito é a leitura, especialmente as obras da Colleen Hoover.<br>
 👀 Curiosidade: A maior fã de NARUTO da vida 🧡<br>
-<p>E lembrem-se: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 💜</p>
+<p>Mantra pessoal: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 💜</p>
 </div>
 </div> 
 
