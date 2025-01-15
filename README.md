@@ -1,7 +1,7 @@
 <div align="center">
 
 ## <h1> <Hello, world/> 🌎  Prazer, eu sou Amanda Gagliero! </h1> <br>
-<h3 align="center">Dev front-end geek, transformando ideias com criatividade e código na ponta dos dedos.</h3>
+<h3 align="center">Desenvolvedora Full Stack geek, transformando ideias em realidade com criatividade e código na ponta dos dedos.</h3>
 
 ###
 
