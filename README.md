@@ -18,8 +18,7 @@
   <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN0OG5kdGw4YzZxeTl2YmdkaHl2cWt1YXhrZjhpYm4wb2FqdW52eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwG5hJ7pO0A2xx3G/giphy.webp"  />
 </div>
 
-###
-
+##
 <h2 align="left">💻 Tech Stack</h2>
 
 <div align="left">
