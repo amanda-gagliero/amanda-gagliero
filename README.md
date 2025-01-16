@@ -1,16 +1,14 @@
-<div align="center">
-
-## <h1> <Hello, world/> 🌎  Prazer, eu sou Amanda Gagliero! </h1> <br>
+<h1 align="center">Hello, world/> 🌎  Prazer, Sou a Amanda ! </h1>
 <h3 align="center">Desenvolvedora Full Stack geek, transformando ideias com criatividade e código na ponta dos dedos.</h3>
 
-###
+<h2 align="left">🗨 Sobre mim:</h2>
 
 <div>
   👩‍🎓 Profissional graduada em Gestão da Tecnologia da Informação.<br>
-  👩‍💻  Construindo a carreira dos meus sonhos enquanto represento e inspiro mulheres na programação<br>
-📖 Meu hobby favorito é a leitura, especialmente as obras da Colleen Hoover.<br>
-👀 Curiosidade: A maior fã de NARUTO da vida 🧡<br>
-<p>Mantra pessoal: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 💜</p>
+  👩‍💻 Construindo a carreira dos meus sonhos enquanto represento e inspiro mulheres na programação.<br>
+  📖 Meu hobby favorito é a leitura, especialmente as obras da Colleen Hoover.<br>
+  👀 Curiosidade: A maior fã de NARUTO da vida 🧡<br>
+  <p>Mantra pessoal: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 💜</p>
 </div>
 </div> 
 
@@ -22,11 +20,9 @@
 
 ###
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -49,11 +45,9 @@
 ###
 ##
 
-<h2 align="center">Stats 📊 </h2>
+<h2 align="left">📊 Github Stats</h2> 
 
-###
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/amanda-gagliero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-gagliero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/ target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-gagliero&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -61,11 +55,9 @@
 
 ###
 
-<h2 align="center">Contato</h2>
+<h2 align="left">🌐 Let's Connect </h2>
 
-###
-
-<div align="center">
+<div align="left">
 <a href = "mailto:amandagagliero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amanda-gagliero-426749207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
