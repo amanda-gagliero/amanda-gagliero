@@ -4,8 +4,8 @@
 <h2 align="left">🗨 Sobre mim:</h2>
 
 <div>
-  👩‍🎓 Graduada em Gestão de TI.<b>
-  🎓 Graduando em Sistemas para Internet e Pós-graduanda em Engenharia de Software.<br>
+  👩‍🎓 Graduada em Gestão de TI.<br>
+  🎓 Atualemntme me graduando em Sistemas para Internet e Pós-graduanda em Engenharia de Software.<br>
   👩‍💻 Construindo a carreira dos meus sonhos enquanto represento e inspiro mulheres na programação.<br>
   📖 Meu hobby favorito é a leitura, especialmente as obras da Colleen Hoover.<br>
   👀 Curiosidade: A maior fã de NARUTO da vida 🧡<br>
