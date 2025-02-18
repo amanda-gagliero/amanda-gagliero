@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world/> 🌎  Prazer, Sou a Amanda ! </h1>
-<h3 align="center"> Uma Dev Full Stack Geek, focada em desenvolver ideias com criatividade e código na ponta dos dedos.</h3>
+<h3 align="center"> Uma Dev Front-end Geek, focada em desenvolver ideias criativas e com código na ponta dos dedos.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
