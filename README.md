@@ -1,11 +1,11 @@
 <h1 align="center">Hello, world/> 🌎  Prazer, Sou a Amanda ! </h1>
-<h3 align="center"> Uma Dev Front-end Geek, focada em desenvolver ideias criativas e com código na ponta dos dedos.</h3>
+<h3 align="center">Dev Front-end Geek, focada em desenvolver ideias criativas e com código na ponta dos dedos.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
 <div>
   👩‍🎓 Graduada em Gestão de TI.<br>
-  🎓 Atualemntme me graduando em Sistemas para Internet e Pós-graduanda em Engenharia de Software.<br>
+  🎓 Atualmente cursando Sistemas para Internet e Pós-graduanda em Engenharia de Software.<br>
   👩‍💻 Construindo a carreira dos meus sonhos enquanto represento e inspiro mulheres na programação.<br>
   📖 Meu hobby favorito é a leitura, especialmente as obras da Colleen Hoover.<br>
   👀 Curiosidade: A maior fã de NARUTO da vida 🧡<br>
