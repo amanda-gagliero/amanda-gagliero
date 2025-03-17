@@ -12,8 +12,6 @@
 
 <p align="left">🎓 Estudante de Sistemas para Internet e Pós-graduanda em Engenharia de Software<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python<br> 👩‍💻 Transformando minha paixão por código em carreira e empoderando mulheres na tecnologia.<br>👀 Curiosidade: A maior fã de NARUTO da vida 🧡<br> Mantra pessoal: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 💜</p>
 
-<hr style="border: 1px solid #BC47F7;">
-
 <br clear="both">
 <img align="left" height="200"
 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN0OG5kdGw4YzZxeTl2YmdkaHl2cWt1YXhrZjhpYm4wb2FqdW52eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwG5hJ7pO0A2xx3G/giphy.webp"/> 
