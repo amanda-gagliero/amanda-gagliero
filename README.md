@@ -10,7 +10,7 @@
 
   <h3 align="left">💜 Olá, eu sou a Amanda!</h3>
 
-<p align="left">🎓 Estudante de Sistemas para Internet e Pós-graduanda em Engenharia de Software<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python<br> 👩‍💻 Transformando minha paixão por código em carreira e empoderando mulheres na tecnologia<br>👀 Curiosidade: A maior fã de NARUTO da vida 🧡<br> Mantra pessoal: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 💜</p>
+<p align="left">🎓 Estudante de Sistemas para Internet e Pós-graduanda em Engenharia de Software<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python<br> 👩‍💻 Transformando minha paixão por código em carreira<br>👀 Curiosidade: A maior fã de NARUTO da vida 🧡<br> Mantra pessoal: ᴄᴏᴅᴇ ʟɪᴋᴇ ᴀ ɢɪʀʟ 💜</p>
 
 <br clear="both">
 <img align="left" height="200"
