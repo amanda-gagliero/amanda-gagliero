@@ -51,17 +51,17 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN0OG5kdGw4YzZxeTl2Ymdka
 <h2 align="Center">📊 GitHub Stats</h2> 
 <hr style="border: 1px solid #BC47F7;">
 <div align="center">
-  <a href="https://github.com/amanda-gagliero">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amanda-gagliero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/ target="_blank">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-gagliero&layout=compact&langs_count=6&theme=tokyonight"/>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=amanda-gagliero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanda-gagliero&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph"  />
 </div>
+
 
 <h2 align="Center">🌐 Let's Connect </h2> 
 <hr style="border: 1px solid #BC47F7;">
 
 <div align="center">
 <div align="center">
-  <a href="amandagagliero@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/amanda-gagliero/" target="_blank">
