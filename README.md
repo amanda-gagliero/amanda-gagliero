@@ -17,7 +17,7 @@ No fundo, só quero que o que eu crio resolva algo, funcione bonito e faça algu
 
 ### 💫 Sobre mim <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN0OG5kdGw4YzZxeTl2YmdkaHl2cWt1YXhrZjhpYm4wb2FqdW52eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOwG5hJ7pO0A2xx3G/giphy.webp" height="150" align="right" />
 
-- Sim, eu era a criança que desmontava o controle do videogame só para ver como funcionava 🎮
+- Sim, eu era a criança que desmontava o controle do videogame só para ver como funcionava 🎮<br>
   Hoje, faço praticamente a mesma coisa — mas com código.
 - 🍜 **Naruteira com orgulho** → *Believe it!* 🧡 *(se você também é do tipo que aprende lições de vida com animes, já somos bests 👊)*  
 - 🤓 Fã de Sheldon Cooper e teorias malucas → **Bazinga! 🧠💥🪐**  
