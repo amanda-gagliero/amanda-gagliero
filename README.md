@@ -10,7 +10,8 @@
 
 ### 💜 Olá, eu sou a Amanda!
 
-Estudante de **Sistemas para Internet**, apaixonada por transformar código em experiências que impactam pessoas.
+🧠 Formada em **Gestão de TI** e estudante de **Sistemas para Internet**, sigo em missão de transformar código em impacto real.  
+No fundo, só quero que o que eu crio resolva algo, funcione bonito e faça alguém sorrir no processo. 😄
 
 ---
 
