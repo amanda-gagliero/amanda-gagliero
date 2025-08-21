@@ -21,11 +21,11 @@ No fundo, só quero que o que eu crio resolva algo, funcione bonito e faça algu
   Hoje, faço praticamente a mesma coisa, mas com código.
 - 🍜 **Naruteira com orgulho** → *Believe it!* 🧡 *(se você também é do tipo que aprende lições de vida com animes, já somos bests 👊)*  
 - 🤓 Fã de Sheldon Cooper e teorias malucas → **Bazinga! 🧠💥🪐**  
-- 🎯 Motivada por impacto social e pela missão de ampliar a presença feminina na tecnologia
+- 🎯 Motivada por impacto social e pela missão de ampliar a presença feminina na tecnologia  
 - 💜 Mantra pessoal: **code like a girl** <br><br>
 
 <p align="center">
-Apesar de ser apaixonada por <b>Front-End</b> (React, JavaScript, TypeScript, HTML, CSS), estou cada vez mais curiosa em entender como tudo se conecta.
+Apesar de ser apaixonada por <b>Front-End</b> (React, JavaScript, TypeScript, HTML, CSS), estou cada vez mais curiosa em entender como tudo se conecta.  
 Por isso atualmente, estou ampliando minhas habilidades com <b>Java</b>, explorando a criação de APIs e sistemas para o back-end.<br>
 E essa combinação tem me tornado uma dev <b>aspirante a Full Stack, com os dois pezinhos no código</b>.
 </p>
@@ -41,73 +41,72 @@ Transformar lógica em brincadeira e código em criatividade é uma das formas m
 
 ---
 
-<h3 align="center">🛠️ Meu universo de desenvolvimento</h3>
+<h3 align="center">🖥️ Meu Stack Full-Stack</h3>
 
 <div align="center">
 
 <table>
-  <!-- Linha 1: FRONT-END -->
   <tr>
-    <td align="center" width="100" height="100">
+    <!-- FRONT-END -->
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /><br>
       HTML5
     </td>
-    <td align="center" width="100" height="100">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" /><br>
       CSS3
     </td>
-    <td align="center" width="100" height="100">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" /><br>
       JavaScript
     </td>
-    <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" /><br>
-      TypeScript
-    </td>
-    <td align="center" width="100" height="100">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" /><br>
       React
     </td>
-    <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="45" /><br>
-      Tailwind
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" /><br>
-      Figma
+  </tr>
+  <tr>
+    <!-- SETA DE TRANSIÇÃO -->
+    <td colspan="4" align="center" style="padding:10px 0;">
+      ⬇️
     </td>
   </tr>
-
-  <!-- Linha 2: BACK-END + FERRAMENTAS -->
   <tr>
-    <td align="center" width="100" height="100">
+    <!-- BACK-END -->
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" /><br>
       Java
     </td>
-    <td align="center" width="100" height="100">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" /><br>
       Python
     </td>
-    <td align="center" width="100" height="100">
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" /><br>
+      Spring Boot
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" /><br>
+      Flask
+    </td>
+  </tr>
+  <tr>
+    <!-- SETA DE TRANSIÇÃO -->
+    <td colspan="4" align="center" style="padding:10px 0;">
+      ⬇️
+    </td>
+  </tr>
+  <tr>
+    <!-- BANCO DE DADOS -->
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" /><br>
       MySQL
     </td>
-    <td align="center" width="100" height="100">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" /><br>
       MongoDB
     </td>
-    <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /><br>
-      Git
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /><br>
-      VS Code
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" /><br>
-      IntelliJ
-    </td>
+    <td colspan="2"></td>
   </tr>
 </table>
 
@@ -118,14 +117,12 @@ Transformar lógica em brincadeira e código em criatividade é uma das formas m
 <h3 align="center">📊 Minhas métricas de batalha</h3>
 
 <div align="center">
-
-<a href="https://github.com/amanda-gagliero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-gagliero&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-</a>
-<a href="https://github.com/amanda-gagliero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-gagliero&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
-</a>
-
+  <a href="https://github.com/amanda-gagliero">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-gagliero&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/amanda-gagliero">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-gagliero&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
+  </a>
 </div>
 
 ---
